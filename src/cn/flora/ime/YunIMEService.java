@@ -1,3 +1,4 @@
+package cn.flora.ime;
 import android.inputmethodservice.InputMethodService;
 
 
